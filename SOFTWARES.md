@@ -10,6 +10,6 @@
 2. Cmder - Terminal emulator
 3. Hyper.js - Configurable Terminal Emulator
 
-###Tips
+### Tips
 
-* [Fix Windows update issues ( Win 8/8.1/10)] (https://support.microsoft.com/en-us/help/10164/fix-windows-update-errors)
+* [Fix Windows update issues ( Win 8/8.1/10)](https://support.microsoft.com/en-us/help/10164/fix-windows-update-errors)
