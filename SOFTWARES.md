@@ -18,7 +18,7 @@
 Edit `/etc/fstab` to add NTFS partitons
 ``` console
 # <file system> <mount point>   <type>  <options>       <dump>  <pass>
-#
+
 UUID=6C45-C882 /boot/efi vfat defaults,rw,relatime 0 0
 UUID=222eadcb-81a5-4e34-9b5d-4cb28c1800bb swap swap defaults 0 0
 UUID=a5015c69-934b-468e-b405-e4ad0e7eda32 / ext4 defaults,rw,lazytime,data=ordered 0 1
